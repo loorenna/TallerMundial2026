@@ -35,22 +35,6 @@ El proyecto fue desarrollado aplicando Programación Orientada a Objetos (POO), 
 - Herencia
 - Polimorfismo
 
----
-
-# Estructura del Proyecto
-
-```text
-ProyectoMundial/
-│
-├── Main.java
-├── GestorMundial.java
-├── Persona.java
-├── Jugador.java
-├── Tecnico.java
-├── Calificable.java
-├── Exportable.java
-└── JugadorNoEncontradoException.java
-```
 
 ---
 
